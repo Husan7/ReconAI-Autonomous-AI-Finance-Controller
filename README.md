@@ -1,4 +1,3 @@
-# Jaktra
 
 An enterprise-grade accounts receivable automation platform that replaces manual collection workflows with intelligent, automated multi-channel follow-up generation. It orchestrates communication cycles from initial reminders to payment reconciliation.
 
@@ -85,4 +84,3 @@ The collection logic follows an incremental escalation matrix designed to maximi
 
 ---
 
-## Suresh Jakhar
